@@ -13,11 +13,11 @@ Programmi kasutamiseks käivitage fail ARK.py.
 
 ###Mõni pilt programmi tööst
 #####Peamenüü<br>
-![alt text](http://img46.imageshack.us/img46/282/20130326191734liikluste.png "Peamenüü")<br><br>
+![alt text](http://i.imgur.com/Y8cD9U9.png "Peamenüü")<br><br>
 #####Testi tegemine<br>
-![alt text](http://img838.imageshack.us/img838/2751/20130326191445ksimused.png "Küsimused")<br><br>
+![alt text](http://i.imgur.com/LvXbXDi.png "Küsimused")<br><br>
 #####Statistika küsimustest<br>
-![alt text](http://img708.imageshack.us/img708/7281/20130326191718levaade.png "Ülevaade")
+![alt text](http://i.imgur.com/BEeEBcg.png "Ülevaade")
 
 
 
